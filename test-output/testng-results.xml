@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-24T15:14:09 GST" name="Default suite" finished-at="2022-11-24T15:14:09 GST" duration-ms="65">
+    <groups>
+    </groups>
+    <test started-at="2022-11-24T15:14:09 GST" name="Default test" finished-at="2022-11-24T15:14:09 GST" duration-ms="65">
+      <class name="Mavenp.Dataproviderdemo">
+        <test-method signature="validateLoginTest()[pri:0, instance:Mavenp.Dataproviderdemo@647e447]" started-at="2022-11-24T15:14:09 GST" name="validateLoginTest" finished-at="2022-11-24T15:14:09 GST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTest -->
+      </class> <!-- Mavenp.Dataproviderdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
